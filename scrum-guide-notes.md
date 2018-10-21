@@ -2,11 +2,11 @@
 
 **By [Ruben J. Sibon](https://www.scrum.org/user/294701)**
 
-These are my notes on the official [Scrum Guide](https://www.scrumguides.org/scrum-guide.html) that I made as part of a Professional Scrum Master (PSM-I) training.
+These are my notes on the official [Scrum Guide](https://www.scrumguides.org/scrum-guide.html) that I made as part of a Professional Scrum Master (PSM-I) training by [The Liberators](https://www.eventbrite.co.uk/o/the-liberators-15531047602).
 
 Some parts of the guide may have been paraphrased or directly quoted in these notes without proper aknowledgement.
 
-These note may be expanded by me in the future. Pull requests are welcome!
+These notes may be expanded by me in the future. Pull requests are welcome!
 
 ## Empirical Process
 
@@ -135,3 +135,5 @@ Examples of Scrum Artifacts:
 My name is Ruben Sibon and I am a web developer who prefers to work in Scrum/Agile teams.
 
 On February 2, 2018 I received the certification for Professional Scrum Master I with a 96.3% score on the [Scrum.org PSM-I](https://www.scrum.org/professional-scrum-master-i-certification) assesment.
+
+The course was paid from the education budget that I received from my very friendly employer [Saxum](https://saxum.nl/).
