@@ -1,12 +1,12 @@
 # Notes on The Scrum Guide
 
-**By [Ruben J. Sibon](https://www.scrum.org/user/294701)**
+**By [Ruben Sibon](https://www.scrum.org/user/294701)**
 
-These are my notes on the official [Scrum Guide](https://www.scrumguides.org/scrum-guide.html) that I made as part of a Professional Scrum Master (PSM-I) training by [The Liberators](https://www.eventbrite.co.uk/o/the-liberators-15531047602).
+These are notes on the official [Scrum Guide](https://www.scrumguides.org/scrum-guide.html) that were made as part of a Professional Scrum Master (PSM-I) training by [The Liberators](https://www.eventbrite.co.uk/o/the-liberators-15531047602).
 
 Some parts of the guide may have been paraphrased or directly quoted in these notes without proper aknowledgement.
 
-These notes may be expanded by me in the future. Pull requests are welcome!
+These notes may be edited in the future. Suggestions or pull requests are welcome!
 
 ## Empirical Process
 
@@ -130,9 +130,9 @@ Examples of Scrum Artifacts:
 - This is the definition of "Done" for the Scrum Team and is used to assess when work is complete on the product Increment.
 - If "Done" for an increment is not a convention of the development organization, the Development Team of the Scrum Team must define a definition of "Done" appropriate for the product. If there are multiple Scrum Teams working on the system or product release, the Development Teams on all the Scrum Teams must mutually define the definition of "Done".
 
-## About me and Scrum
+## About me
 
-My name is Ruben Sibon and I am a web developer who prefers to work in Scrum/Agile teams.
+I am Ruben Sibon and I am a creative web developer who prefers to work in Scrum/Agile teams.
 
 On February 2, 2018 I received the certification for Professional Scrum Master I with a 96.3% score on the [Scrum.org PSM-I](https://www.scrum.org/professional-scrum-master-i-certification) assesment.
 
