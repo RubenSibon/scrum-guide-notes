@@ -2,75 +2,114 @@
 
 **By [Ruben Sibon](https://www.scrum.org/user/294701)**
 
-These are notes on the official [Scrum Guide](https://www.scrumguides.org/scrum-guide.html) that were made as part of a Professional Scrum Master (PSM-I) training by [The Liberators](https://www.eventbrite.co.uk/o/the-liberators-15531047602).
+These are notes on the official [Scrum Guide](https://www.scrumguides.org/scrum-guide.html) that were made as part of two Professional Scrum Master (PSM-I & PSM-II) trainings given by [The Liberators](https://www.eventbrite.co.uk/o/the-liberators-15531047602).
 
-Some parts of the guide may have been paraphrased or directly quoted in these notes without proper aknowledgement.
+Some parts of the guide and the trainings may have been paraphrased or directly quoted in these notes without proper aknowledgement.
 
-These notes may be edited in the future. Suggestions or pull requests are welcome!
+These notes may be edited in the future. Suggestions and pull requests are welcome!
+
+## Scrum Definition
+
+Scrum:
+
+- is **lightweight**
+- is a **framework**
+- helps generate **value through adaptive solutions** for **complex problems**.
 
 ## Empirical Process
 
-Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known.
+Scrum is founded on **empiricism**. Empiricism means that knowledge comes from experience and making decisions based on what is observed.
 
 ## Scrum pillars
 
-- Transparency
-- Inspection
-- Adaption
+- **Transparency**, everything is visible to everybody so that they can do:
+- **Inspection**, progress towards agreed goals must be inspected frequently to detect problems in order to allow for:
+- **Adaption**, adaptive teams are self-managing, self-learning and agile; they are always improving.
 
 ## Scrum values
 
-- Commitment
-- Courage
-- Focus
-- Openness
-- Respect
+- **Commitment**: team commits to achieving its goals and to supporting each other;
+- **Courage**: members have the courage to do the right thing;
+- **Focus**: primary focus is on work to make the best possible progress towards the goals;
+- **Openness**: team and stakeholders are open about the work and the challenges;
+- **Respect**: members respect each other and are respected to be capable, independent people.
 
 When these values are embodied and lived by the Scrum Team the Scrum pillars come to life and build trust for everyone.
 
 ## The Scrum Team
 
-### The Product Owner
+### Developers
 
-- Decides what should be done.
-- Optimizes the value of the work the Development Team does.
-- Responsible for the Product Backlog.
+- Are **committed** to creating any aspect of a usable Increment each Sprint.
+- They are **accountable** for:
+  - Creating a plan for the **Sprint**, the **Sprint Backlog**;
+  - Instilling quality by adhering to a **Definition of Done**;
+  - Adapting their plan each day toward the **Sprint Goal**; and,
+  - Holding each other **accountable as professionals**.
 
-### The Development Team
+### Product Owner
 
-- Does the work to be done in a Sprint.
-- Responsible for the Sprint Backlog.
+- Is accountable for maximizing the value of the product resulting from the work of the Scrum Team.
+- Is also accountable for effective **Product Backlog** management, which includes:
+  - Developing and explicitly communicating the **Product Goal**;
+  - Creating and clearly communicating **Product Backlog** items;
+  - **Ordering Product Backlog** items; and,
+  - Ensuring that the Product Backlog is **transparent, visible and understood**.
 
 ### The Scrum Master
 
-- Servant leader: facilitates and removes impediments.
+- Is accountable for establishing Scrum as defined in the Scrum Guide.
+- Is accountable for the Scrum Team’s effectiveness.
+- Serves the Scrum Team in several ways, including:
+  - Coaching the team members in self-management and cross-functionality;
+  - Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
+  - Causing the removal of impediments to the Scrum Team’s progress; and,
+  - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
+- Serves the Product Owner in several ways, including:
+  - Helping find techniques for effective Product Goal definition and Product Backlog management;
+  - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+  - Helping establish empirical product planning for a complex environment; and,
+  - Facilitating stakeholder collaboration as requested or needed.
+- Serves the organization in several ways, including:
+  - Leading, training, and coaching the organization in its Scrum adoption;
+  - Planning and advising Scrum implementations within the organization;
+  - Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+  - Removing barriers between stakeholders and Scrum Teams.
 
 ## Scrum events
 
 ### The sprint (max 1 month; often 2 weeks)
 
-- No changes are made that would endanger the Sprint Goal.
-- Quality goals do not decrease.
-- Scope may be clarified and re-negotiated as more is learned.
-- Can be cancelled (if continuing no longer makes sense).
-- Starts immediatly after the previous sprint.
-- Sprint Planning (max 8 hours for 1 month Sprints)
-  - Topic One: What can be done this Sprint?
-    - Development Team forecasts functionality that will be developed.
-    - Product Owner discusses objective that the Sprint should achieve.
-    - The Product Backlog is the input for the Sprint Planning. Only the Development Team can assess what items from the Product Backlog it can accomplish in the Sprint.
-    - Formulation of Sprint Goal: provides guidance to the Development Team on why it is building the Increment.
-  - Topic Two: how will the chosen work get done?
-    - The Sprint Backlog is the output of the Sprint Planning.
-    - The Product Owner can provide clarifications.
-    - People not in the Scrum Team may also be invited to provide technical or domain advice.
-    - At the end of the Sprint Planning the Development Team should be able to explain to the Product Owner and the Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
+- No changes are made that would endanger the Sprint Goal;
+- Quality does not decrease;
+- The Product Backlog is refined as needed; and,
+- Scope may be clarified and re-negotiated as more is learned;
+- Can be cancelled (if continuing no longer makes sense);
+- Starts immediatly after the previous sprint;
+
+### Sprint Planning (max 8 hours for a 1 month sprint)
+
+- Topic One: **Why is this Sprint valuable?**
+  - The Product Owner proposes how the product could increase its value and utility in the current Sprint.
+  - The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders.
+  - The Sprint Goal must be finalized prior to the end of Sprint Planning.
+- Topic Two: **What can be done this Sprint?**
+  - Development Team forecasts functionality that will be developed.
+  - Product Owner discusses objective that the Sprint should achieve.
+  - The Product Backlog is the input for the Sprint Planning. Only the Development Team can assess what items from the Product Backlog it can accomplish in the Sprint.
+  - Formulation of Sprint Goal: provides guidance to the Development Team on why it is building the Increment.
+- Topic Three: **How will the chosen work get done?**
+  - The Sprint Backlog is the output of the Sprint Planning.
+  - The Product Owner can provide clarifications.
+  - People not in the Scrum Team may also be invited to provide technical or domain advice.
+  - At the end of the Sprint Planning the Development Team should be able to explain to the Product Owner and the Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
+
+[From about here the guide still needs to be updated according to the 2020 edition - RS]
 
 ### Daily Scrum (max 15 minutes)
 
-- Plan work for coming 24 hours
-- Team inspects progress towards Sprint Goal
-- Adapts course as necessarry.
+- Team inspects progress towards Sprint Goal;
+- Adapts the Sprint Backlog as necessarry;
 - Held at same time and place each day to reduce complexity
 - Possible questions or discussion points:
   - What did I do yesterday that helped the Development Team meet the Sprint Goal?
